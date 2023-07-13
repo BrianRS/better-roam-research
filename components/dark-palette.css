@@ -22,7 +22,7 @@
 
 .rm-highlight,
 .block-highlight-yellow {
-  background-color: #5a5016 !important;
+  background-color: hsl(51, 60%, 22%) !important;
 }
 
 .bp3-overlay-backdrop {
